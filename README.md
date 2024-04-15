@@ -13,7 +13,7 @@
 # Hero Section
 - includes a large background image that spans 100% of the page’s width. 
 - includes a centered, circular headshot image with a border.
-- includes a centered <h1> with your name.
+- includes a centered h1 tag with my name.
 - includes a centered tagline.
 - all elements in the hero section are sized responsively across different screen resolutions.  
 
