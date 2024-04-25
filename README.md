@@ -3,8 +3,6 @@
   include any JavaScript functionality. The goal of this project was to take what I had learned about
   HTML, CSS, and Bootstrap amd create something that not only shows off my technical skills, but 
   also my personal values and goals. 
-  Included below is a link to the actual website.
-  https://7acea0fa-0669-471b-a778-a4d8ee7305d5-00-1jvc26evtqsfw.picard.replit.dev/
 
 # Navbar
 - contains links that successfully navigate to the different sections of the page: Mission, Skills, and Contact.
